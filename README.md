@@ -1,4 +1,4 @@
-## Dashboard
-- Это dashboard контроля времени [DASHBOARD](https://miroshairk.github.io/Dashboard-Time/)
+## Панель учета времени [жми сюда](https://miroshairk.github.io/Dashboard-Time/)
+- Это dashboard контроля времени 
 - Адаптирован под любое устройство
-- Реализовано переключение между день/неделя/месяц
+- Реализован функционал переключение между день/неделя/месяц
