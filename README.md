@@ -1,4 +1,4 @@
-## Панель учета времени [жми сюда](https://miroshairk.github.io/Dashboard-Time/)
+## Панель учета времени [жми сюда](https://miroshairk.github.io/Baner-Dashboard-Time/)
 - Это dashboard контроля времени 
 - Адаптирован под любое устройство
 - Реализован функционал переключение между день/неделя/месяц
